@@ -1,0 +1,6 @@
+{
+  "name": "Protege Kids — Guia de Cuidado",
+  "description": "Guia educativo e prático para famílias sobre pequenos animais, insetos, prevenção de acidentes e primeiros socorros infantis com tranquilidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
